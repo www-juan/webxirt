@@ -1,1 +1,1 @@
-print "Python Massa!"
+print ("Python é Massa!")
